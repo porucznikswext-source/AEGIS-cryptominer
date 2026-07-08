@@ -1,0 +1,2 @@
+# AEGIS-cryptominer
+AEGIS cryptominer
