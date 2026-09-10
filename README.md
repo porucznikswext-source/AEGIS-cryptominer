@@ -1,2 +1,9 @@
 # AEGIS-cryptominer
 AEGIS cryptominer
+
+https://leanpub.com/thelocalaistackbuildingasovereignmachinelearningworkstation
+https://leanpub.com/masteringadvancedqiskitquantumcomputing
+https://leanpub.com/masteringawsadvancedpythonengineering
+https://leanpub.com/engineeringsovereigndarkmeshnetworks
+https://leanpub.com/advancedcryptographyprofessionalimplementationhandbook
+https://leanpub.com/advancedautomation50chaptermasterscriptpackage
